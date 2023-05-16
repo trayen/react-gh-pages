@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trayen/Garrison/react-gh-pages/static/css/main.035e3bf1.css",
+    "main.js": "/trayen/Garrison/react-gh-pages/static/js/main.1cf22681.js",
+    "static/js/787.1a4904d2.chunk.js": "/trayen/Garrison/react-gh-pages/static/js/787.1a4904d2.chunk.js",
+    "static/media/garrison.jpeg": "/trayen/Garrison/react-gh-pages/static/media/garrison.9822b494a7425c69e6dd.jpeg",
+    "static/media/logo-the-garison-black.png": "/trayen/Garrison/react-gh-pages/static/media/logo-the-garison-black.5455d4b5bfbbec225132.png",
+    "index.html": "/trayen/Garrison/react-gh-pages/index.html",
+    "main.035e3bf1.css.map": "/trayen/Garrison/react-gh-pages/static/css/main.035e3bf1.css.map",
+    "main.1cf22681.js.map": "/trayen/Garrison/react-gh-pages/static/js/main.1cf22681.js.map",
+    "787.1a4904d2.chunk.js.map": "/trayen/Garrison/react-gh-pages/static/js/787.1a4904d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035e3bf1.css",
+    "static/js/main.1cf22681.js"
+  ]
+}
